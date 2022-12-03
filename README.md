@@ -1,1 +1,1 @@
-A collection of web assets
+A collection of images and other assets
